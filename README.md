@@ -1,2 +1,2 @@
 # tournament-policies
-Privacy Policy and Terms for my BGMI Tournament App
+Privacy Policy and Terms for my BattleCore League (BCL) App
